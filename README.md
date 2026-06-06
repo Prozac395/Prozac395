@@ -1,1 +1,1 @@
-![Banner](lain.gif)
+![Banner](banner.gif)
